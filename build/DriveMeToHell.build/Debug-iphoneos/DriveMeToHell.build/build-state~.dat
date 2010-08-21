@@ -1,0 +1,261 @@
+TDriveMeToHell
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C4729800000000000000110
+t1279732096
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFE078B00000000002CE430
+t1274939275
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C04706200000000000C1E70
+t1275359330
+s794224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BFF3B7800000000000A4890
+t1275018104
+s673936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFE069000000000000AC990
+t1274939024
+s706960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.h
+c000000004C6EE2C30000000000000201
+t1282335427
+s513
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m
+c000000004C6EE2C30000000000000AA7
+t1282335427
+s2727
+i"DriveMeToHellAppDelegate.h"
+i"DriveMeToHellViewController.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.h
+c000000004C6EE3B20000000000000188
+t1282335666
+s392
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m
+c000000004C6EE3BB00000000000005EF
+t1282335675
+s1519
+i"DriveMeToHellViewController.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib
+c000000004C6EE32D0000000000003F4C
+t1282335533
+s16204
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch
+c000000004C6EE2C300000000000000C3
+t1282335427
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib
+c000000004C6EE2C30000000000004E71
+t1282335427
+s20081
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHellViewController.nib
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/MainWindow.nib
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/PkgInfo
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m
+c000000004C6EE2C3000000000000016D
+t1282335427
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch
+t2
+s0
+
+NDriveMeToHell-Info.plist
+c000000004C6EE2C3000000000000038D
+t1282335427
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304028476#304028476#0(142"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.DriveMeToHell' could not be found1(4@134"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.DriveMeToHell' could not be found304028476#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib"
+r0
+
+CCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell"
+r0
+
+CLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell" normal armv6
+r0
+
+CLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist" DriveMeToHell-Info.plist
+r0
+
+CProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"
+r0
+

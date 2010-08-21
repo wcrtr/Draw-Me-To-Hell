@@ -1,0 +1,1220 @@
+TDriveMeToHell
+v7
+r0
+t304035691.030818
+cCheck dependencies
+cCpResource build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist" DriveMeToHell-Info.plist
+cCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib"
+cCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib"
+cProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/Reachability.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIAuthenticationDialog.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIDownloadCache.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIFormDataRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIHTTPRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIInputStream.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASINetworkQueue.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSObject+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSString+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonBase.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonParser.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonWriter.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell" normal armv6
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/Reachability.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIAuthenticationDialog.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIDownloadCache.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIFormDataRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIHTTPRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIInputStream.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASINetworkQueue.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSObject+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSString+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonBase.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonParser.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonWriter.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell" normal armv7
+cCreateUniversalBinary "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell"
+cProcessProductPackaging "/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision"
+cTouch "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent"
+cCodeSign "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C4729800000000000000110
+t1279732096
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004C2A7DA700000000000001A7
+t1277853095
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFE078B00000000002CE430
+t1274939275
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004BFE072E00000000000004CF
+t1274939182
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004BFE05AF0000000000000AB3
+t1274938799
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C04706200000000000C1E70
+t1275359330
+s794224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004BFF3B7700000000000000EB
+t1275018103
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BFF3B7800000000000A4890
+t1275018104
+s673936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C0458CC00000000000000C4
+t1275353292
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004BFE06850000000000001AE5
+t1274939013
+s6885
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFE069000000000000AC990
+t1274939024
+s706960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004BF4BCBB0000000000000DE2
+t1274330299
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/arpa/inet.h
+c000000004BF4BCE80000000000001533
+t1274330344
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/ifaddrs.h
+c000000004BF4BCF40000000000000782
+t1274330356
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/netdb.h
+c000000004BF4BD13000000000000307F
+t1274330387
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/netinet/in.h
+c000000004BFDFE070000000000005462
+t1274936839
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/netinet6/in6.h
+c000000004BFDFE090000000000004F61
+t1274936841
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/stdio.h
+c000000004BF75A3D00000000000040AC
+t1274501693
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/sys/socket.h
+c000000004BFDFE1A00000000000059D6
+t1274936858
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/zlib.h
+c000000004BFDF16D00000000000102A5
+t1274933613
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/lib/libz.1.2.3.dylib
+c000000004BFDF16F0000000000020FF0
+t1274933615
+s135152
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.h
+c000000004C30562B0000000000000453
+t1278236203
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m
+c000000004C30562B0000000000003CB7
+t1278236203
+s15543
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASICacheDelegate.h
+c000000004C30562B000000000000085E
+t1278236203
+s2142
+i<Foundation/Foundation.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.h
+c000000004C30562B0000000000000804
+t1278236203
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m
+c000000004C30562B0000000000003557
+t1278236203
+s13655
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.h
+c000000004C30562B0000000000000A6D
+t1278236203
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m
+c000000004C30562B0000000000002B52
+t1278236203
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.h
+c000000004C30562B000000000000911D
+t1278236203
+s37149
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m
+c000000004C30562B00000000000249C5
+t1278236203
+s149957
+i"ASIHTTPRequest.h"
+i<zlib.h>
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequestConfig.h
+c000000004C30562B00000000000003B0
+t1278236203
+s944
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequestDelegate.h
+c000000004C30562B0000000000000599
+t1278236203
+s1433
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.h
+c000000004C30562B00000000000003C9
+t1278236203
+s969
+i<Foundation/Foundation.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m
+c000000004C30562B0000000000000BF0
+t1278236203
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.h
+c000000004C30562B000000000000109B
+t1278236203
+s4251
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m
+c000000004C30562B00000000000027CB
+t1278236203
+s10187
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIProgressDelegate.h
+c000000004C30562B0000000000000678
+t1278236203
+s1656
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.h
+c000000004C6EE2C30000000000000201
+t1282335427
+s513
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m
+c000000004C6EE2C30000000000000AA7
+t1282335427
+s2727
+i"DriveMeToHellAppDelegate.h"
+i"DriveMeToHellViewController.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.h
+c000000004C6EFF6A0000000000000220
+t1282342762
+s544
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"ASIHTTPRequest.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m
+c000000004C6F0038000000000000191D
+t1282342968
+s6429
+i"DriveMeToHellViewController.h"
+i"SBJSON.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.h
+c000000004C30562B0000000000001D0E
+t1278236203
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m
+c000000004C30562B0000000000005DFD
+t1278236203
+s24061
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib
+c000000004C6EE3DA00000000000046BA
+t1282335706
+s18106
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch
+c000000004C6EE2C300000000000000C3
+t1282335427
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib
+c000000004C6EE2C30000000000004E71
+t1282335427
+s20081
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app
+t1282342889
+s374
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM
+t1282342889
+s102
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell
+t1282342889
+s724144
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHellViewController.nib
+t1282338831
+s1225
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist
+t1282338830
+s748
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/MainWindow.nib
+t1282338831
+s1135
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/PkgInfo
+t1282338830
+s8
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist
+t1282338830
+s485
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision
+t1282338836
+s10375
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent
+t1282338836
+s428
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t1282338832
+s98656
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIDownloadCache.o
+t1282338832
+s50476
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIFormDataRequest.o
+t1282338832
+s43164
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIHTTPRequest.o
+t1282338834
+s392288
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIInputStream.o
+t1282338832
+s25308
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASINetworkQueue.o
+t1282338833
+s52444
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell
+t1282342889
+s357148
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell.LinkFileList
+c000000004C6EF00E00000000000009DD
+t1282338830
+s2525
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o
+t1282342762
+s48316
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o
+t1282342889
+s65852
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSObject+SBJSON.o
+t1282338833
+s8332
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSString+SBJSON.o
+t1282338833
+s8260
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/Reachability.o
+t1282338832
+s31936
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJSON.o
+t1282338833
+s18516
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonBase.o
+t1282338833
+s12948
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonParser.o
+t1282338833
+s34572
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonWriter.o
+t1282338833
+s24744
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o
+t1282338832
+s6476
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t1282338834
+s97500
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIDownloadCache.o
+t1282338834
+s49448
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIFormDataRequest.o
+t1282338834
+s42260
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIHTTPRequest.o
+t1282338835
+s384884
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIInputStream.o
+t1282338834
+s25040
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASINetworkQueue.o
+t1282338834
+s51892
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell
+t1282342889
+s343888
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell.LinkFileList
+c000000004C6EF00E00000000000009DD
+t1282338830
+s2525
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o
+t1282342762
+s48236
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o
+t1282342889
+s64344
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSObject+SBJSON.o
+t1282338834
+s8292
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSString+SBJSON.o
+t1282338834
+s8216
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/Reachability.o
+t1282338833
+s31100
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJSON.o
+t1282338835
+s18268
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonBase.o
+t1282338835
+s12824
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonParser.o
+t1282338835
+s32524
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonWriter.o
+t1282338835
+s24356
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o
+t1282338833
+s6460
+
+N/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m
+c000000004C6EE2C3000000000000016D
+t1282335427
+s365
+i<UIKit/UIKit.h>
+
+N/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision
+c000000004C6B1A3F0000000000002887
+t1282087487
+s10375
+
+N/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch
+t1282338832
+s10290736
+
+N/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch
+t1282338832
+s9831984
+
+NDriveMeToHell-Info.plist
+c000000004C6EF00B000000000000038B
+t1282338827
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304035691#304035691#0(0"0(0#1#0"8598731360#0"0#
+
+CCodeSign "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"
+s304035689.256715
+e304035689.456748
+r1
+xCodeSign
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/DriveMeToHell.app304035689#304035689#0(0"0(0#0#96"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app8635815072#826"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: William Carter (6BFC2ZQYZB)" "--resource-rules=/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist" --entitlements "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIAuthenticationDialog.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.595142
+e304031632.800155
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m304031632#304031632#0(0"0(0#0#91"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m8618648864#2183"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIAuthenticationDialog.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIDownloadCache.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.601996
+e304031632.736282
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIDownloadCache.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m304031632#304031632#0(0"0(0#0#84"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m8617581568#2169"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIDownloadCache.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIFormDataRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.736373
+e304031632.859555
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIFormDataRequest.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m304031632#304031632#0(0"0(0#0#86"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m8631937280#2173"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIFormDataRequest.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIHTTPRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.800250
+e304031634.016135
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIHTTPRequest.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m304031632#304031634#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m8618067104#2165"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIHTTPRequest.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIInputStream.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.859652
+e304031632.937839
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIInputStream.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m304031632#304031632#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m8614191392#2165"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASIInputStream.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASINetworkQueue.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.937937
+e304031633.060150
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASINetworkQueue.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m304031632#304031633#0(0"0(0#0#83"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m8614237664#2167"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/ASINetworkQueue.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304035562.506849
+e304035562.590546
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m304035562#304035562#0(0"0(0#0#92"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m8619944416#2185"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellAppDelegate.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304035688.937937
+e304035689.109904
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m304035688#304035689#0(0"0(0#0#95"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m8632282208#2191"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHellViewController.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSObject+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.060250
+e304031633.120607
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSObject+SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m304031633#304031633#0(0"0(0#0#88"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m8629727968#2172"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSObject+SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSString+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.120702
+e304031633.165394
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSString+SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m304031633#304031633#0(0"0(0#0#88"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m8614790496#2172"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/NSString+SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/Reachability.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.473456
+e304031632.601899
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/Reachability.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m304031632#304031632#0(0"0(0#0#80"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m8633640160#2161"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/Reachability.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.165488
+e304031633.242291
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m304031633#304031633#0(0"0(0#0#79"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m8612909536#2154"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonBase.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.242392
+e304031633.298086
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonBase.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m304031633#304031633#0(0"0(0#0#83"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m8632247584#2162"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonBase.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonParser.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.298188
+e304031633.400297
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m304031633#304031633#0(0"0(0#0#85"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m8617776608#2166"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonParser.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonWriter.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031633.400395
+e304031633.483703
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m304031633#304031633#0(0"0(0#0#85"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m8614177760#2166"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/SBJsonWriter.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031632.273165
+e304031632.462545
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m304031632#304031632#0(0"0(0#0#64"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m8617402656#2137"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIAuthenticationDialog.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031633.879540
+e304031634.067355
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m304031633#304031634#0(0"0(0#0#91"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m8616001824#2183"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIAuthenticationDialog.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIAuthenticationDialog.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIDownloadCache.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.067449
+e304031634.194188
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m304031634#304031634#0(0"0(0#0#84"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m8618507904#2169"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIDownloadCache.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIDownloadCache.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIFormDataRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.194287
+e304031634.306353
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m304031634#304031634#0(0"0(0#0#86"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m8614720448#2173"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIFormDataRequest.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIFormDataRequest.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIHTTPRequest.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.306466
+e304031635.272527
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m304031634#304031635#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m8626227616#2165"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIHTTPRequest.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIHTTPRequest.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIInputStream.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.581836
+e304031634.659484
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m304031634#304031634#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m8604258976#2165"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASIInputStream.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASIInputStream.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASINetworkQueue.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.659588
+e304031634.853755
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m304031634#304031634#0(0"0(0#0#83"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m8627081408#2167"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/ASINetworkQueue.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/ASINetworkQueue.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304035562.591711
+e304035562.683918
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m304035562#304035562#0(0"0(0#0#92"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m8627278176#2185"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellAppDelegate.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellAppDelegate.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304035688.984311
+e304035689.107827
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m304035688#304035689#0(0"0(0#0#95"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m8632710464#2191"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/DriveMeToHellViewController.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHellViewController.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSObject+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.853867
+e304031634.907237
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSObject+SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m304031634#304031634#0(0"0(0#0#88"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m8627282080#2172"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSObject+SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSObject+SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSString+SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.907334
+e304031634.954963
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSString+SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m304031634#304031634#0(0"0(0#0#88"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m8616047456#2172"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/NSString+SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/NSString+SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/Reachability.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031633.769688
+e304031633.879436
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/Reachability.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m304031633#304031633#0(0"0(0#0#80"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m8618514912#2161"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/Reachability.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/Reachability.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJSON.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031634.955064
+e304031635.020464
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJSON.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m304031634#304031635#0(0"0(0#0#79"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m8614410432#2154"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJSON.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJSON.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonBase.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031635.020561
+e304031635.073927
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonBase.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m304031635#304031635#0(0"0(0#0#83"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m8613216416#2162"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonBase.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonBase.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonParser.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031635.074030
+e304031635.233878
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m304031635#304031635#0(0"0(0#0#85"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m8611494656#2166"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonParser.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonParser.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonWriter.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031635.233972
+e304031635.316008
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m304031635#304031635#0(0"0(0#0#85"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m8629702304#2166"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/Classes/JSON/SBJsonWriter.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/SBJsonWriter.o"0#
+
+CCompileC build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031633.483804
+e304031633.531407
+r1
+xCompileC
+xbuild/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m304031633#304031633#0(0"0(0#0#64"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m8633224000#2137"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -include /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/main.m" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib"
+s304031630.875365
+e304031631.233417
+r1
+xCompileXIB
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib
+lSLF07#2@42"CompileXIB DriveMeToHellViewController.xib304031630#304031631#0(0"0(0#0#89"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib8633664288#707"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHellViewController.nib" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHellViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib"
+s304031630.874388
+e304031631.219944
+r1
+xCompileXIB
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304031630#304031631#0(0"0(0#0#72"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib8635754784#673"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/MainWindow.nib" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s304031630.798117
+e304031630.874259
+r1
+xCpResource
+xbuild/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist304031630#304031630#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8632570816#590"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"0#
+
+CCreateUniversalBinary "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell" normal "armv6 armv7"
+s304035689.180118
+e304035689.183858
+r1
+xCreateUniversalBinary
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell normal "armv6 armv7"304035689#304035689#0(0"0(0#0#69"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/armv6 armv78613336896#712"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell" -output "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell"0#
+
+CGenerateDSYMFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell"
+s304035689.183931
+e304035689.252835
+r1
+xGenerateDSYMFile
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/DriveMeToHell.app.dSYM build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell304035689#304035689#0(0"0(0#0#110"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell8599326368#505"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/DriveMeToHell" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app.dSYM"0#
+
+CLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell" normal armv6
+s304035689.109960
+e304035689.175307
+r1
+xLd
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell
+xnormal
+xarmv6
+lSLF07#2@158"Link /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell304035689#304035689#0(0"0(0#0#0"8614995648#1196"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" -filelist "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework MobileCoreServices -framework SystemConfiguration -framework CoreLocation -framework MapKit -lz.1.2.3 -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv6/DriveMeToHell"0#
+
+CLd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell" normal armv7
+s304035689.108996
+e304035689.180036
+r1
+xLd
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell
+xnormal
+xarmv7
+lSLF07#2@158"Link /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell304035689#304035689#0(0"0(0#0#0"8617881088#1196"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" -filelist "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework MobileCoreServices -framework SystemConfiguration -framework CoreLocation -framework MapKit -lz.1.2.3 -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/Objects-normal/armv7/DriveMeToHell"0#
+
+CProcessInfoPlistFile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist" DriveMeToHell-Info.plist
+s304031630.799831
+e304031630.822774
+r1
+xProcessInfoPlistFile
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist
+xDriveMeToHell-Info.plist
+lSLF07#2@32"Process DriveMeToHell-Info.plist304031630#304031630#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell-Info.plist8632195520#732"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility DriveMeToHell-Info.plist -genpkginfo "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/ResourceRules.plist" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/Info.plist"0#
+
+CProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304031631.234332
+e304031632.273000
+r1
+xProcessPCH
+x/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch
+xDriveMeToHell_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DriveMeToHell_Prefix.pch304031631#304031632#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch8632296192#2008"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv7" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch" -o /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-frvbmzkctzduudancognnrfcowst/DriveMeToHell_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch DriveMeToHell_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304031631.233521
+e304031632.152309
+r1
+xProcessPCH
+x/var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch
+xDriveMeToHell_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DriveMeToHell_Prefix.pch304031631#304031632#0(0"0(0#0#82"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch8633627616#2008"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-generated-files.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-own-target-headers.hmap" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-all-target-headers.hmap" -iquote "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell-project-headers.hmap" "-F/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/include" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources/armv6" "-I/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DerivedSources" -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/DriveMeToHell_Prefix.pch" -o /var/folders/ox/oxyWf9+RHjGwop4NerMop++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DriveMeToHell_Prefix-hcucyoljzewwvkdmvgyovcixyukr/DriveMeToHell_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision" "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision"
+s304031636.063801
+e304031636.066380
+r1
+xProcessProductPackaging
+x/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision" build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision304031636#304031636#0(0"0(0#0#121"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision8618354368#533"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/wcrtr/Library/MobileDevice/Provisioning Profiles/B99CCDAD-375A-43F7-B76F-3428186240B4.mobileprovision" -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent"
+s304031636.068967
+e304031636.308562
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent304031636#304031636#0(0"0(0#0#138"/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent8616021888#554"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/DriveMeToHell.build/Debug-iphoneos/DriveMeToHell.build/DriveMeToHell.xcent"0#
+
+CTouch "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"
+s304035689.253002
+e304035689.256578
+r1
+xTouch
+x/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app
+lSLF07#2@102"Touch /Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app304035689#304035689#0(0"0(0#0#0"8627765920#374"    cd "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/wcrtr/Documents/iPhone Test Projects/DriveMeToHell/build/Debug-iphoneos/DriveMeToHell.app"0#
+
